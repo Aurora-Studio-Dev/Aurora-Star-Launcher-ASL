@@ -1,5 +1,5 @@
-# Aurora Star Launcher
-一款现代简约风的Minecarft启动器
+<h1 align="center"><img src="./asl.ico"/><br/>Aurora Star Launcher</h1>
+<p align="center">一款现代简约风的Minecarft启动器</p>
 
 [官网](#) (还没搭建好)
 
